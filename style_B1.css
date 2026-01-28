@@ -1,4 +1,4 @@
-<style>
+	<style>
 /* ✅ ألوان العلامات التجارية */
 .fa-instagram { color: #E1306C; }   /* Instagram */
 .fa-tiktok { color: #000000; }      /* TikTok */
@@ -539,17 +539,7 @@
     from { opacity: 0; transform: scale(0.9);}
     to { opacity: 1; transform: scale(1);}
   }
-  
-  
-  
-  
-  
-  
-  
-  
-  
 </style>
-
 
 <style>
 
@@ -612,8 +602,6 @@
         }
     }
 </style>
-
-
 
 <style>
 /* ستايل بسيط للمودال */
@@ -879,6 +867,9 @@
 }
 </style>
 
+
+
+
 <style>
         :root {
             /* الألوان الثابتة للهيدر والشريط السفلي (برتقالي دائمًا – احترافي وثابت) */
@@ -1011,8 +1002,8 @@
 
         
     </style>
-    
-    <style>
+
+<style>
     body {
       margin: 0;
       font-family: "Tahoma", sans-serif;
